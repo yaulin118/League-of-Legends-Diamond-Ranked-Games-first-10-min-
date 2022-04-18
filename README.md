@@ -1,7 +1,5 @@
 # League-of-Legends-Diamond-Ranked-Games-first-10-min-
 
-# League of Legends Diamond Ranked Games (first 10 min)
-
 ## About Dataset
 
 League of Legends is a MOBA (multiplayer online battle arena) where 2 teams (blue and red) face off. 
