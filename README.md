@@ -1,0 +1,1 @@
+# League-of-Legends-Diamond-Ranked-Games-first-10-min-
